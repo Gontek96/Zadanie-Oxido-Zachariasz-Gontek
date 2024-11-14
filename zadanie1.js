@@ -6,7 +6,7 @@ let message = [];
 // bibloteka
 const axios = require('axios');
 
-const apiKey = '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';
+const apiKey = '';
 
 //Wczytanie pliku do zmiennej
 function readText() {
