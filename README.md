@@ -1,4 +1,4 @@
-# Zadanie-Oxido-Zachariasz-Gontek
+# Zadanie
 Działanie programu:
 Na starcie wyłowywana jest funkcja "Start" która inicjalizuje start programu, odpala się funkcja "readText" która pobiera dane z pliku 'dane.txt',następnie jest przygotowywanie pytania po czym odpalana jest następna funckja "useAPI" w której tworzy sie zapytanie do AI "request" następnie jest zadawane pytanie oraz sprawdza poprawność klucza.
 potem otrzymana odpowiedź jest zapisywana do pliku 'artykul.html' po czym kończy się program.
